@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="javagithub">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../arraysDemo/src" />
+      <root url="file://$PROJECT_DIR$/../conditionals/src" />
+      <root url="file://$PROJECT_DIR$/../datatypes/src" />
+      <root url="file://$PROJECT_DIR$/../javaHelloWorld/src" />
+      <root url="file://$PROJECT_DIR$/../loopDemo/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../multiDimensionalArrayDemo/src" />
+      <root url="file://$PROJECT_DIR$/../recapDemo1/src" />
+      <root url="file://$PROJECT_DIR$/../recapDemo2/src" />
+      <root url="file://$PROJECT_DIR$/../stringsDemo/src" />
+      <root url="file://$PROJECT_DIR$/../switchDemo/src" />
+      <root url="file://$PROJECT_DIR$/../variables/src" />
+    </SOURCES>
+  </library>
+</component>
